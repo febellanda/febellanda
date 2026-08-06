@@ -4,8 +4,7 @@
 - 💡Interesse em Backend e Segurança de Dados 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=febellanda&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
+    (https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=febellanda&show_icons=true"
