@@ -2,16 +2,6 @@
 
 - 📚 Graduando Engenharia de Software
 - 💡Interesse em Backend e Segurança de Dados 
-<picture>
-  <source
-    (https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=febellanda&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=febellanda&show_icons=true" />
-</picture>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/febellanda/febellanda/output/github-contribution-grid-snake-dark.svg">
